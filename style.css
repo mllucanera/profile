@@ -83,7 +83,7 @@ a:hover {
 #cv_photo_correct_size{
     width: 230px;
     height: 200px;
-    border-radius: 50 px
+    border-radius: 50%;
 }
 
 #clients_title {
